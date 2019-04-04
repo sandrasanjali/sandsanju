@@ -5,4 +5,6 @@ if [ $a -gt $b ]
 then
 if [ $a -gt $c ]
 then 
-echo
+echo "a is greater "
+else
+
