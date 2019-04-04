@@ -5,3 +5,4 @@ echo "$1 is greater then 100 "
 else
 echo " $1 is less then 100 "
 fi
+end of file
